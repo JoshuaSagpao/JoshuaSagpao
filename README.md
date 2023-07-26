@@ -1,4 +1,5 @@
-### Hi there 👋
+![image alt text](https://raw.githubusercontent.com/JoshuaSagpao/JoshuaSagpao/main/Bg_github2nd.png)
+I’m currently a BS in Computer Science student at [Cavite State University](https://cvsu.edu.ph/).
 
 <!--
 **JoshuaSagpao/JoshuaSagpao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
